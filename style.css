@@ -1,0 +1,214 @@
+.input-hight {
+  height: 30px;
+}
+
+.vid-boder {
+  border: 0;
+}
+
+.vid-margin {
+  margin-bottom: 0;
+}
+
+.vid-text-padd {
+  padding-left: 35px;
+}
+
+.vid-text {
+  padding-left: 25px;
+}
+
+.name-info h3 {
+  margin: 0;
+}
+
+.name-info p {
+  margin-top: 0;
+}
+
+.sub input {
+  background-color: red;
+  color: white;
+}
+
+body {
+  background-color: #f9f9f9;
+  margin: 0;
+  padding: 0;
+}
+
+/* navbar start */
+
+nav {
+  background-color: #fff;
+}
+
+.main-menu {
+  list-style-type: none;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-top: 0;
+}
+
+.menu {
+  float: left;
+}
+
+.menu a {
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+}
+
+.serachbtn {
+  background-color: #f8f8f8;
+  border: none;
+  text-align: center;
+  padding: 11px 17px 0 0;
+  cursor: pointer;
+}
+
+.com-search {
+  background-color: #ececec;
+}
+
+.logo img {
+  height: 50px;
+  width: 120px;
+}
+
+/* navbar end */
+
+/* Start container */
+
+.container {
+  width: 100%;
+}
+
+/* left main section */
+
+#main_section {
+  width: 60%;
+  float: left;
+  padding: 22px 0 0 38px;
+}
+
+#side_section {
+  float: left;
+  padding: 22px 0 0 38px;
+}
+
+.badge {
+  padding: 5px;
+  background-color: #e7e3df;
+  display: inline-block;
+}
+
+.count {
+  margin-top: 8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.left-section {
+  display: flex;
+  flex-direction: row;
+}
+
+.left-section-text {
+  padding-left: 20px;
+}
+
+.left-section-text p {
+  margin: 0;
+  color: gray;
+}
+
+.left-section-text h3 {
+  margin-top: 0;
+}
+
+.left-section-mar {
+  margin-bottom: 10px;
+}
+
+.right-section {
+  display: flex;
+}
+
+.padding-style {
+  margin-right: 20px;
+}
+
+.hr-class {
+  color: #e7e3df;
+  margin: 20px 0;
+}
+
+.img-info img {
+  height: 35px;
+  width: 60px;
+}
+
+.com-count {
+  margin-bottom: 20px;
+}
+
+.com-sort {
+  padding-left: 35px;
+}
+
+.current-comment {
+  margin-bottom: 30px;
+}
+
+.img-rad {
+  border-radius: 50%;
+}
+
+.name-info-com {
+  padding-left: 25px;
+}
+
+.com-area {
+  float: right;
+  margin-top: 5px;
+}
+
+.side-img-collection {
+  margin-top: 30px;
+}
+
+/* left main section */
+
+/* Right main section */
+
+.sort-btn-all {
+  background-color: black;
+  border-radius: 35%;
+  border: 0;
+  height: 30px;
+  width: 52px;
+  color: white;
+  margin-right: 15px;
+  cursor: pointer;
+}
+
+.btn-recent {
+  width: 150px;
+  height: 30px;
+  border-radius: 32%;
+  border: 1px solid gray;
+  cursor: pointer;
+}
+
+.side-img {
+  width: 200px;
+  height: 110px;
+}
+
+/* End Right main section */
